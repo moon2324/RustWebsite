@@ -147,6 +147,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: var(--color-highlight);
+	background-color: #000;
 }
 .tabs {
     display: flex;

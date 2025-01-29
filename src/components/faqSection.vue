@@ -8,16 +8,16 @@
   <div class="spoon is-medium is-primary">FAQ</div>
 </div>
 <!-- SINGLE QUESTION & ANSWER -->
-<h3 class="faq-question">Question #1</h3>
-<p class="text-start">Lorem ipsum dolor sit amet, consectetur <a href="#">adipiscing elit</a>. Maecenas euismod orci a dapibus laoreet. Aliquam a viverra turpis. Sed consectetur elit ut porttitor egestas. Morbi sem velit, dictum posuere ligula id, gravida tincidunt purus. In bibendum elementum lacus vitae congue. Suspendisse tempor ac enim vitae blandit. Vivamus eu neque elementum, luctus velit in, vulputate felis. Fusce ac molestie nulla, et dictum enim. Proin posuere leo quis pellentesque interdum. Nulla laoreet euismod dapibus. Sed suscipit, metus at auctor rhoncus, lacus ex sagittis libero, nec ullamcorper tortor neque ut elit.</p>
+<h3 class="faq-question">Who are we</h3>
+<p class="text-start">We are a small team of rust players who wanted to create some more relaxed rust servers with the hope of building a community of people for the sake of having fun.</p>
 <!-- SINGLE QUESTION & ANSWER /END -->
 <!-- SINGLE QUESTION & ANSWER -->
-<h3 class="faq-question">Question #2</h3>
-<p class="text-start">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod orci a dapibus laoreet. Aliquam a viverra turpis. Sed consectetur elit ut porttitor egestas. Morbi sem velit, dictum posuere ligula id, gravida tincidunt purus. In bibendum elementum lacus vitae congue. Suspendisse tempor ac enim vitae blandit. Vivamus eu neque elementum, luctus velit in, vulputate felis. Fusce ac molestie nulla, et dictum enim. Proin posuere leo quis pellentesque interdum. Nulla laoreet euismod dapibus. Sed suscipit, metus at auctor rhoncus, lacus ex sagittis libero, nec ullamcorper tortor neque ut elit.</p>
+<h3 class="faq-question">Server Uptime/Reliability</h3>
+<p class="text-start">The servers are being hosted locally by me running on my own hardware. i pride myself on having >95% with the only exceptions being power outages or my isp doing mantinence.</p>
 <!-- SINGLE QUESTION & ANSWER /END -->
 <!-- SINGLE QUESTION & ANSWER -->
-<h3 class="faq-question">Question #3</h3>
-<p class="text-start">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod orci a dapibus laoreet. Aliquam a viverra turpis. Sed consectetur elit ut porttitor egestas. Morbi sem velit, dictum posuere ligula id, gravida tincidunt purus. In bibendum elementum lacus vitae congue. Suspendisse tempor ac enim vitae blandit. Vivamus eu neque elementum, luctus velit in, vulputate felis. Fusce ac molestie nulla, et dictum enim. Proin posuere leo quis pellentesque interdum. Nulla laoreet euismod dapibus. Sed suscipit, metus at auctor rhoncus, lacus ex sagittis libero, nec ullamcorper tortor neque ut elit.</p>
+<h3 class="faq-question">Future goals</h3>
+<p class="text-start">Our goals are to create a large tight knit community with multiple servers down the line!</p>
 <!-- SINGLE QUESTION & ANSWER /END -->
 </section>
 </div>

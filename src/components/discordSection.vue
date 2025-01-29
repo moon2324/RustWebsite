@@ -9,8 +9,8 @@
 <div class="col-md-4 members" id="discord">
 <h2 class="discord">{{ discordData.name }}</h2>
 
-<p v-if="getMembersCount = 100">100+</p>
-<p v-else-if="discordData.members.length < 100">{{ discordData.members.length }}</p>
+<p v-if="getMembersCount == 100">100+</p>
+<p v-else-if="getMembersCount < 100">{{ getMembersCount }}</p>
 <span>USERS ONLINE</span>
 
 </div>
@@ -27,7 +27,7 @@
 
 </div>
 <div class="discord-invite">
-<a href="#" target="_blank" class="btn btn-outline-light btn-lg">Join Us</a>
+<a href="https://discord.gg/3Dnv6hQC8d" target="_blank" class="btn btn-outline-light btn-lg">Join Us</a>
 </div>
 </section>
 
@@ -49,7 +49,7 @@ export default {
   },
   computed: {
     getMembersCount() {
-        return this.discordData.members.length ? this.discordData.members.length : 0;
+		return this.discordData.members ? this.discordData.members.length : 0;
     },
     slicedMembers() {
         return this.discordData.members ? this.discordData.members.slice(-22) : [];
@@ -59,7 +59,7 @@ export default {
     axios
       .get('https://discordapp.com/api/guilds/' + this.discordID + '/widget.json')
       .then((response) => {
-        this.discordData = response.data
+        this.discordData = response.data;
       })
   }
 }

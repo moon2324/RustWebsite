@@ -11,28 +11,35 @@
 
 <!-- one member -->
 <div class="col-lg-4 col-md-4 col-6">
-<img src="../assets/photo.webp" class="lazy rounded-circle staff" alt="Kirill Krasin"/>
-<p class="staff-name">Kirill Krasin</p>
+<img src="../assets/PFP.webp" class="lazy rounded-circle staff" alt="Mr_moon"/>
+<p class="staff-name">Mr_moon</p>
 <p class="staff-role">Owner</p>
 </div>
 <!-- one member -->
 
 <!-- one member -->
 <div class="col-lg-4 col-md-4 col-6">
-<img src="../assets/loader-150.webp" class="lazy rounded-circle staff" alt="John Smith"/>
-<p class="staff-name">John Smith</p>
-<p class="staff-role">Admin</p>
+<img src="../assets/Joucan.webp" class="lazy rounded-circle staff" alt="Joucan"/>
+<p class="staff-name">Joucan</p>
+<p class="staff-role">Head Admin</p>
 </div>
 <!-- one member -->
 
 <!-- one member -->
 <div class="col-lg-4 col-md-4 col-6">
-<img src="../assets/loader-150.webp" class="lazy rounded-circle staff" alt="Robert Jones"/>
-<p class="staff-name">Robert Jones</p>
+<img src="../assets/Mac.png" class="lazy rounded-circle staff" alt="MACANDCHEESE"/>
+<p class="staff-name">MACANDCHEESE</p>
+<p class="staff-role">Admin</p>
+</div>
+
+<!-- one member -->
+<div class="col-lg-4 col-md-4 col-6">
+<img src="../assets/SolidStone.gif" class="lazy rounded-circle staff" alt="SolidStone"/>
+<p class="staff-name">SolidStone</p>
 <p class="staff-role">Moderator</p>
 </div>
-<!-- one member -->
 
+<!-- one member -->
 </div><!-- row -->
 </section>
 </div>

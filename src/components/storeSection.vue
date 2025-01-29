@@ -12,9 +12,9 @@
 <img src="../assets/store.webp" class="img-fluid rounded" alt="Responsive image">
 </div>
 <div class="col-md-7 store">
-<h2>Buy VIP packages</h2>
-<h3>And support us!</h3>
-<p>Love our servers? You can help us by giving back to support developement. Buy our VIP packages!</p>
+<h2>Store is</h2>
+<h3>Under Construction!</h3>
+<p>Currently we have no short term plans to add any purchasable items for our rust servers (kits, vip/mvp, etc), as time goes on we may change this but for now the store remains closed </p>
 <a href="https://somestore.com/" target="_blank" class="btn btn-outline-light btn-lg">Visit Store</a>
 </div>
 </div>
