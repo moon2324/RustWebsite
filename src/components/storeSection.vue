@@ -15,7 +15,7 @@
 <h2>Store is</h2>
 <h3>Under Construction!</h3>
 <p>Currently we have no short term plans to add any purchasable items for our rust servers (kits, vip/mvp, etc), as time goes on we may change this but for now the store remains closed </p>
-<a href="https://somestore.com/" target="_blank" class="btn btn-outline-light btn-lg">Visit Store</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="btn btn-outline-light btn-lg">Visit Store</a>
 </div>
 </div>
 </section>
